@@ -77,3 +77,13 @@ C:\src\asp\VideoRental\VideoRentalsApp\VideoRentalsApp\obj\Debug\VideoRentalsApp
 C:\src\asp\VideoRental\VideoRentalsApp\VideoRentalsApp\obj\Debug\VideoRentalsApp.csproj.CopyComplete
 C:\src\asp\VideoRental\VideoRentalsApp\VideoRentalsApp\obj\Debug\VideoRentalsApp.dll
 C:\src\asp\VideoRental\VideoRentalsApp\VideoRentalsApp\obj\Debug\VideoRentalsApp.pdb
+C:\src\asp\VideoRental\VideoRentalsApp\VideoRentalsApp\bin\EntityFramework.dll
+C:\src\asp\VideoRental\VideoRentalsApp\VideoRentalsApp\bin\EntityFramework.SqlServer.dll
+C:\src\asp\VideoRental\VideoRentalsApp\VideoRentalsApp\bin\EntityFramework.xml
+C:\src\asp\VideoRental\VideoRentalsApp\VideoRentalsApp\bin\EntityFramework.SqlServer.xml
+C:\src\asp\VideoRental\VideoRentalsApp\VideoRentalsApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\src\asp\VideoRental\VideoRentalsApp\VideoRentalsApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\src\asp\VideoRental\VideoRentalsApp\VideoRentalsApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\src\asp\VideoRental\VideoRentalsApp\VideoRentalsApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\src\asp\VideoRental\VideoRentalsApp\VideoRentalsApp\obj\Debug\VideoRentalsApp.Migrations.InitialDB.resources
+C:\src\asp\VideoRental\VideoRentalsApp\VideoRentalsApp\obj\Debug\VideoRentalsApp.csproj.GenerateResource.cache
