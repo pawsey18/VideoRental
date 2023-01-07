@@ -87,3 +87,5 @@ C:\src\asp\VideoRental\VideoRentalsApp\VideoRentalsApp\bin\Microsoft.AspNet.Iden
 C:\src\asp\VideoRental\VideoRentalsApp\VideoRentalsApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\src\asp\VideoRental\VideoRentalsApp\VideoRentalsApp\obj\Debug\VideoRentalsApp.Migrations.InitialDB.resources
 C:\src\asp\VideoRental\VideoRentalsApp\VideoRentalsApp\obj\Debug\VideoRentalsApp.csproj.GenerateResource.cache
+C:\src\asp\VideoRental\VideoRentalsApp\VideoRentalsApp\obj\Debug\VideoRentalsApp.Migrations.AddedAnnotationsToCustomerName.resources
+C:\src\asp\VideoRental\VideoRentalsApp\VideoRentalsApp\obj\Debug\VideoRentalsApp.Migrations.EditCustomerModel.resources
